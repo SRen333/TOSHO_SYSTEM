@@ -24,7 +24,7 @@ module.exports = {
   rules: {
     "react-refresh/only-export-components": [
       "warn",
-      { allowConstantExport: false },
+      { allowConstantExport: true },
     ],
     "react/react-in-jsx-scope": "off",
   },

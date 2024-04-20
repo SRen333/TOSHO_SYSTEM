@@ -1,8 +1,8 @@
 import "./App.css";
-import Test from "./component/Test";
+import HomeView from "./page/HomePage/compenents/HomeView";
 
 function App() {
-  return <Test />;
+  return <HomeView />;
 }
 
 export default App;
